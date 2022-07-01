@@ -1,0 +1,82 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.top {
+    width: 100%;
+}
+
+.style {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+
+.contents01 {
+    width: 100%;
+}
+
+.contents1 {
+    width: 100%;
+}
+
+.contents02 {
+    width: 100%;
+}
+
+.contents2 {
+    width: 100%;
+}
+
+.contents03 {
+    position: relative;
+}
+
+.contents3 {
+    width: 100%;
+}
+
+/* .button {
+    position: relative;
+} */
+
+.LINE {
+    position: absolute;
+    width: 74%;
+    top: 29.8%;
+    left: 19%;
+}
+
+.Instagram {
+    position: absolute;
+    width: 74%;
+    top: 44.8%;
+    left: 19%;
+}
+
+.Facebook {
+    position: absolute;
+    width: 74%;
+    top: 59.8%;
+    left: 19%;
+}
+
+.button01 {
+    position: absolute;
+    width: 90%;
+    top: 82.8%;
+    left: 5%;
+}
+
+
